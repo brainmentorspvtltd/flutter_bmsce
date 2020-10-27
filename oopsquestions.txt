@@ -1,0 +1,58 @@
+Question
+We need to print a salary slip of given employee.
+
+Input : Enter the Id 
+1001
+Enter the Name
+RAM kUMAR
+
+Enter the Basic Salary
+9000
+
+Sample Salary Slip
+ID : 1001
+Name : Ram Kumar
+Basic Salary : 9000
+HRA (House Rent Allowance) : 30% of Basic Salary
+DA (Dearness Allowance ) - 10% of Basic Salary
+TA (Travelling Allowance) - 20% of Basic Salary
+PF - 5% of the Basic Salary
+Gross Salary = BS + HRA + DA + TA - PF
+TAX <5L 0% 
+5L> 10%
+6 to 9L - 20%
+9L> 30% 
+Net Salary = GS - TAX 
+
+
+
+Question 2
+Parent Class
+Super,this 
+Constructor chain
+Override
+
+Loan 
+
+Child Class
+Home Loan - 85% 
+10 L , 8.5 L
+30 Y
+ROI 11%
+
+Auto Loan
+55% 45%
+7Y
+ROI 13.4%
+
+Personal Loan
+75 65
+ROI 16%
+3-5 Y
+
+
+
+
+
+
+
