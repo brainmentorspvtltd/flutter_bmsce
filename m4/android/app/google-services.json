@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527737726805",
+    "firebase_url": "https://learncrud-3d625.firebaseio.com",
+    "project_id": "learncrud-3d625",
+    "storage_bucket": "learncrud-3d625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527737726805:android:8f7a624a44221c819371dc",
+        "android_client_info": {
+          "package_name": "com.brainmentors.mymusicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527737726805-tbhvect77j5l5q4jsv9j9j1ss012juih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainmentors.mymusicapp",
+            "certificate_hash": "874fd352baac76db115d1076a972a350641a96d1"
+          }
+        },
+        {
+          "client_id": "527737726805-bub1qmosaq5bqlq893s9gs4stsa1svbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAplzmQ23mGkTCIQcdFuj2sMSXQyu1ZIeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527737726805-bub1qmosaq5bqlq893s9gs4stsa1svbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

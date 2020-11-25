@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527737726805-vgef0l8h3kptjlogod7gq03flkf7ia1l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527737726805-vgef0l8h3kptjlogod7gq03flkf7ia1l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527737726805-tbhvect77j5l5q4jsv9j9j1ss012juih.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGzhkje0U7Cjx0MgqpTlwqaYtHWBkG2dw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527737726805</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brainmentors.mymusicapp</string>
+	<key>PROJECT_ID</key>
+	<string>learncrud-3d625</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learncrud-3d625.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527737726805:ios:13887b1e5ed146969371dc</string>
+	<key>DATABASE_URL</key>
+	<string>https://learncrud-3d625.firebaseio.com</string>
+</dict>
+</plist>
